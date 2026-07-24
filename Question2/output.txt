@@ -1,0 +1,3 @@
+Parent process. PID = 2523
+Child is unresponsive. Terminating child...
+Zombie process prevented.

@@ -1,0 +1,6 @@
+ERROR: Database connection failed
+ERROR: Disk space low
+ERROR: Memory allocation failed
+ERROR: Network timeout
+ERROR: CPU Overloaded
+ERROR: Database Lost

@@ -1,0 +1,12 @@
+INFO: Server started successfully
+INFO: Client connected
+ERROR: Database connection failed
+INFO: User logged in
+ERROR: Disk space low
+INFO: Server running
+INFO: Backup completed
+ERROR: Memory allocation failed
+ERROR: Network timeout
+ERROR: CPU Overloaded
+INFO: User Connected
+ERROR: Database Lost
